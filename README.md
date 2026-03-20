@@ -2,11 +2,11 @@ PROTOTIPO INICIAL DE GESTION DE USURIOS Y LA BASE DE DATOS
 ----------
 Universitario (a):
 ---------
-1.-Coraite Yanaje Luz Clara
+<p>1.-Coraite Yanaje Luz Clara<p>
 -------------
-2.-Muraña Pizarro Nayda Thatiana
+<p>2.-Muraña Pizarro Nayda Thatiana<p>
 -------------
-3.-Onofre  Alanoca Roy
+<p>3.-Onofre  Alanoca Roy<p>
 -----------
 Carrera: Ing. Sistemas. 
 Materia: SIS324 – INGINIERIA DE SOFWARE
