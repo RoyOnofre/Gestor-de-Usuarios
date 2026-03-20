@@ -1,4 +1,5 @@
 PROTOTIPO INICIAL DE GESTION DE USURIOS Y LA BASE DE DATOS
+----------
 Universitario (a): Coraite Yanaje Luz Clara
                                      Muraña Pizarro Nayda Thatiana
                                     Onofre  Alanoca Roy
